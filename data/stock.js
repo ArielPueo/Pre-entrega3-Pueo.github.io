@@ -4,7 +4,7 @@ const productos =
         id: 1,
         nombre: "La original",
         tipo: "buzo",
-        desc: "La moto campeona del mundo",
+        desc: "La camiseta campeona del mundo",
         precio: 24000,        
         imagen: 'public/images/pro1.jpg',
         cantidad:1
@@ -14,7 +14,7 @@ const productos =
         id: 2,
         nombre: "Motoneta",
         tipo: "remera",
-        desc: "La camiseta campeona del mundo",
+        desc: "La moto campeona del mundo",
         precio: 100000,        
         imagen: 'public/images/pro2.jpg',
         cantidad:1
