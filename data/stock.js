@@ -6,7 +6,7 @@ const productos =
         tipo: "buzo",
         desc: "La moto campeona del mundo",
         precio: 24000,        
-        imagen: '../public/images/pro1.jpg',
+        imagen: 'public/images/pro1.jpg',
         cantidad:1
     },
 
@@ -16,7 +16,7 @@ const productos =
         tipo: "remera",
         desc: "La camiseta campeona del mundo",
         precio: 100000,        
-        imagen: '../public/images/pro2.jpg',
+        imagen: 'public/images/pro2.jpg',
         cantidad:1
     },
 
@@ -26,7 +26,7 @@ const productos =
         tipo: "camisa",
         desc: "La matera campeona del mundo",
         precio: 5000,        
-        imagen: '../public/images/pro3.jpg',
+        imagen: 'public/images/pro3.jpg',
         cantidad:1
     },
 
